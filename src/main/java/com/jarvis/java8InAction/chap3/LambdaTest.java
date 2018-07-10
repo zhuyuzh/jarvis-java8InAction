@@ -14,5 +14,6 @@ public class LambdaTest {
     public static void main(String[] args) {
         // java8中有效的lambda表达式
         System.out.println();
+        System.out.println();
     }
 }
